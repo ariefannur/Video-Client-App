@@ -7,7 +7,7 @@ This is video client app for android
 - ExoPlayer
 - Modular
 
-## Feature Captuse
+## Feature Capsule
 - Preview Video
 - Content Description
 - Quiz and Check Answer detection
