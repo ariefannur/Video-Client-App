@@ -6,6 +6,11 @@ This is video client app for android
 - MVVM
 - ExoPlayer
 - Modular
+  ```
+  :app -> start app
+  :base -> base library like theme and shared component
+  :feature_capsule -> module feature
+  ```
 
 ## Feature Capsule
 - Preview Video
@@ -52,6 +57,8 @@ data class Question (
     var correct = option[(option.indices).random()]
 }
 ```
+Sample data per screen store in [DummyData.kt](https://github.com/ariefannur/Video-Client-App/blob/main/feature_capsule/src/main/java/com/github/ariefannur/capsule/feature_capsule/data/DummyData.kt)
+
 
 ## Screenshot
 
